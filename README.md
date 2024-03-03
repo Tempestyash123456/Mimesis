@@ -2,7 +2,7 @@
 
 **Mimesis refers to the imitation, representation, or copying of something, particularly the portrayal of reality in art.**
 
-*This game is based on this imitation principle and you can play this from [Mimesis]().*
+*This game is based on this imitation principle and you can play this from [Mimesis](https://tempestyash123456.github.io/Mimesis/).*
 
 ### Objective 
 
